@@ -1,0 +1,35 @@
+.event-card {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 400px;
+  
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.event-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.event-content img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.event-content h2 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+.event-content p {
+  font-size: 1em;
+  color: #666;
+}

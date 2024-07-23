@@ -1,0 +1,40 @@
+/* AboutUsComponent.css */
+
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #0b0c0d; /* Change color to match your theme */
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+ul {
+  /* list-style-type: none; */
+  padding: 0px 20px;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.about-container div {
+  margin-bottom: 40px;
+}
+
+.about-container div:last-child {
+  margin-bottom: 0;
+}
